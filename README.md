@@ -10,4 +10,4 @@ From the project's root directory: `gcloud app deploy`
 
 __Architecture__
 
-![flow_chart](https://user-images.githubusercontent.com/24707558/43503873-ba3b2b1c-9593-11e8-893f-e9fa196c1884.png)
+![flow_chart](https://user-images.githubusercontent.com/24707558/43558900-3731f7cc-963e-11e8-8e19-d4ca01bceb9e.png)
