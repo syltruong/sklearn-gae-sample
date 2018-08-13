@@ -1,5 +1,7 @@
 # Google App Engine - `sklearn` sample
 
+Suppporting article: [Deploying Machine Learning has never been so easy](https://towardsdatascience.com/https-towardsdatascience-com-deploying-machine-learning-has-never-been-so-easy-bbdb500a39a)
+
 This is a sample project for deployment of a wrapped `sklearn` estimator (`TextClassifier`) on an AppEngine instance.
 
 The project assumes a Google Cloud project has been instantiated and the Google Cloud SDK (`gcloud` command-line) has been installed.
